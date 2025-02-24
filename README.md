@@ -1,4 +1,4 @@
-# Loan Status Classification Project
+# Loan Approval Prediction 
 
 ## Project Overview
 This project aims to predict loan approval status based on various features. The goal is to develop machine learning models from scratch without relying on libraries such as `sklearn`. Several approaches are explored, including traditional machine learning, ensemble methods, and deep learning.
